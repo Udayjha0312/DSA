@@ -8,7 +8,6 @@ Problems are organized pattern-wise to improve problem-solving skills and build 
 
 ## Topics
 
-- Arrays & Hashing
 - Two Pointers
 - Sliding Window
 - Binary Search
@@ -23,7 +22,7 @@ Problems are organized pattern-wise to improve problem-solving skills and build 
 
 ## Language
 
-- C++
+- Python
 
 ## Goal
 
