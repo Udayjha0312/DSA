@@ -1,7 +1,7 @@
 # Problem - Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
 # Approach - Two Pointers.
 # Time Complexity - O(n)
-# Space Complexity - O(1)
+# Space Complexity - O(n)
 class Solution:
     def sortedSquares(self, arr: list[int]) -> list[int]:
        n = len(arr)
